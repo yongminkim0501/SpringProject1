@@ -22,6 +22,7 @@ public class AppConfig {
     //"call AppConfig.memberRepository"
     //"call AppConfig.orderService"
     //"call AppConfig.memberRepository"
+
     //call AppConfig.memberService
     //call AppConfig.memberRepository
     //call AppConfig.orderService
